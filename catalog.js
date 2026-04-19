@@ -4,6 +4,10 @@ const catalogData = {
         date: "<3",
         pinned: true
     },
+    "untitled (3)": {
+        href: "catalog/21.html",
+        date: "19/04/2026"
+    },
     "message to six": {
         href: "catalog/20.html",
         date: "16/04/2026"
