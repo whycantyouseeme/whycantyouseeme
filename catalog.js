@@ -4,6 +4,10 @@ const catalogData = {
         date: "<3",
         pinned: true
     },
+    "r/offmychest": {
+        href: "catalog/23.html",
+        date: "21/04/2026"
+    },
     "think of me as a concept": {
         href: "catalog/22.html",
         date: "20/04/2026"
